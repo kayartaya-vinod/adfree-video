@@ -2,7 +2,7 @@
 
 Download/clone:
 
-`git clone `
+`git clone git@github.com:kayartaya-vinod/adfree-video.git`
 
 
 Install dependencies:
